@@ -1,0 +1,93 @@
+.container{ 
+  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);            
+  padding: 20px; 
+  margin: 80px auto;     
+  border-radius: 15px;         
+  color: rgb(53, 50, 50);            
+  box-shadow: 0px 6px 19px rgba(121, 117, 117, 0.2);
+  
+}       
+.btn-danger{
+  color: white;            
+  border: none; 
+  background: tomato;
+  text-align: center; 
+  margin-top: -5px;                                         
+         
+} 
+.btn-success{
+  color: white;            
+  border: none;             
+  text-align: center; 
+  margin-top: -5px; 
+}      
+.search{
+  text-align: center; 
+  padding-left: 85px;   
+  padding-right: 85px; 
+  height: 32px; 
+  width: 400px;  
+  border-color: greenyellow;            
+  }
+
+.both{
+      text-align: center;
+      margin-top: 100px;
+      padding-left: 20px;                
+}
+h1{
+  font-size: 35px;
+  font-weight: bold;
+  padding-top: 30px;
+  color: black;
+  text-align: left;
+  padding-left: 260px;
+  font-family: "Roboto", sans-serif;
+}
+h2{
+  font-size: 16px;
+  color: red;
+  text-align: left;            
+  margin-bottom: 0%;
+  margin-left: 260px;
+}
+h3{
+  font-size: 16px;
+  color: red;
+  text-align: left;            
+  margin-left: 260px;
+  }
+.row-degree{
+  text-align: left;
+  margin-left: 290px;
+  font-size: 47px;
+  margin-left: 255px;
+}        
+.col-temp{
+  font-size: 30px;
+  padding-top: 13px;
+}
+.col-char{
+  font-size: 17px;
+  color: red;
+  margin-left: 100px;            
+  padding-bottom: 50px;
+  font-family: "Roboto", sans-serif;
+}
+.bold {
+  color: rgb(53, 50, 50);
+  font-size: 15px;
+}
+.number {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+.emoji{
+  font-size: 70px; 
+  margin-bottom: 20px;
+  text-align: left;                  
+}
+.temp-degree{
+  font-size: 25px;                       
+}  
