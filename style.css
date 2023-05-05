@@ -5,6 +5,7 @@
   border-radius: 15px;         
   color: rgb(53, 50, 50);            
   box-shadow: 0px 6px 19px rgba(121, 117, 117, 0.2);
+  padding-bottom: 0;
   
 }       
 .btn-danger{
@@ -90,4 +91,17 @@ h3{
 }
 .temp-degree{
   font-size: 25px;                       
+}
+.link-code{  
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
 }  
+.linkFont{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 13px;
+  font-weight: bold  
+}
+.linkAll{
+  margin-left:115px;
+  margin-top: -75px;
+}
